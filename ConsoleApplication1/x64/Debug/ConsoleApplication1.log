@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\Mathieu Marc Pobre\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\Calculator.cpp(51,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mathieu Marc Pobre\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\Calculator.cpp(106): warning C4715: 'Calculator::getInstance': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Mathieu Marc Pobre\Documents\GitHub\ConsoleApplication1\x64\Debug\GenshinCalc.exe

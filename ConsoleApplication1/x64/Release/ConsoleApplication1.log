@@ -1,0 +1,16 @@
+﻿  Artifact.cpp
+  Calculator.cpp
+C:\Users\Mathieu Marc Pobre\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\Calculator.cpp(51,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Character.cpp
+  ConsoleApplication1.cpp
+  Menu.cpp
+C:\Users\Mathieu Marc Pobre\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\Menu.cpp(329,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Teams.cpp
+  Weapon.cpp
+  WeaponDatabase.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Mathieu Marc Pobre\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\Calculator.cpp(106): warning C4715: 'Calculator::getInstance': not all control paths return a value
+  All 816 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\Mathieu Marc Pobre\Documents\GitHub\ConsoleApplication1\x64\Release\GenshinCalc.exe
